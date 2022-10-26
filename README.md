@@ -6,4 +6,4 @@ Esse repositório contém algumas provas de edições anteriores do projeto e ma
 
 As provas são do instituto federal de educação, ciência e tecnologia do Ceará.
 
-Se não conseguir abrir alguma prova ou conteudo no navegador baixe visualize diretamente no PC/Celular.
+Se não conseguir abrir alguma prova ou conteúdo no navegador baixe visualize diretamente no PC/Celular.
