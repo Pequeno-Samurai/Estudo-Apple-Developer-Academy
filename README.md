@@ -2,6 +2,6 @@ A Apple Developer Academy é um projeto de pesquisa e desenvolvimento aberto a t
 
 Esse repositório contém algumas provas de edições anteriores do projeto e material para facilitar o estudo.
 
-As provas são do instituto federal de ciência e tecnologia do Ceará.
+As provas são do instituto federal de educação, ciência e tecnologia do Ceará.
 
 Se não conseguir abrir alguma prova no navegador baixe visualize diretamente no PC/Celular.
